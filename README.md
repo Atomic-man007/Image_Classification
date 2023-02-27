@@ -1,12 +1,17 @@
+**Image Classification with tensorflow and pytorch**
 Image Classification for Happy and Sad Emotions using PyTorch and TensorFlow
 This project aims to classify images into two categories, happy and sad emotions, using PyTorch and TensorFlow deep learning frameworks. The dataset used for this project is the "Facial Expression Recognition Challenge" dataset available on Kaggle.
 
 Getting Started
+
 Prerequisites
+
+```
 Python 3.7 or later
 Torch 1.12.1+cu113
 TensorFlow 2.4.1 or later
 Jupyter Notebook
+```
 
 Installing
 
